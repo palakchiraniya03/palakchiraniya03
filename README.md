@@ -8,7 +8,6 @@
 
 <a href="https://github.com/palakchiraniya03"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/palak-chiraniya"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://leetcode.com/u/palakchiraniya/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 
 <br><br>
 
@@ -125,11 +124,6 @@ Building:
   - KrishiMitra
   - AI-Powered Applications
 
-Exploring:
-  - Agentic AI
-  - Multimodal AI
-  - Real-World ML Applications
-
 Open To:
   - Machine Learning Internships
   - AI Engineering Internships
@@ -142,7 +136,6 @@ Open To:
 
 - GitHub: https://github.com/palakchiraniya03
 - LinkedIn: https://www.linkedin.com/in/palak-chiraniya
-- LeetCode: https://leetcode.com/u/palakchiraniya/
 
 ---
 
