@@ -92,6 +92,10 @@ Safara is a geospatial analytics platform that helps users identify safer travel
 
 Scikit-Learn • Pandas • Leaflet • OpenRouteService
 
+### Repository
+
+🔗 https://github.com/palakchiraniya03/safara
+
 ### Impact
 
 Processed and visualized thousands of crime records to provide safer route recommendations through geospatial machine learning.
@@ -125,6 +129,10 @@ KrishiMitra is an IoT-based smart irrigation platform that automates crop wateri
 </p>
 
 ESP32 • Capacitor • Tailwind CSS • OpenWeatherMap API
+
+### Repository
+
+🔗 https://github.com/palakchiraniya03/krishimitra
 
 ### Impact
 
