@@ -17,7 +17,7 @@
 
 I'm a second-year Computer Engineering student at **PICT Pune (GPA 9.31/10)** with a strong interest in **Machine Learning, Artificial Intelligence, and Software Engineering**.
 
-I enjoy building technology solutions that solve real-world problems, from geospatial crime hotspot analysis with **Safara** to smart agriculture systems with **KrishiMitra**.
+I enjoy building technology solutions that solve real-world problems, from geospatial crime hotspot analysis with Safara to intelligent irrigation systems with KrishiMitra.
 
 ## Open To
 
@@ -149,8 +149,8 @@ Reduced manual irrigation effort by approximately **60%** during pilot testing t
 
 # Community
 
-- GirlScript Summer of Code (GSSoC) 2026 — Participant
-- Nexus Spring of Code (NSoC) 2026 — Participant
+- GirlScript Summer of Code (GSSoC) 2026
+- Nexus Spring of Code (NSoC) 2026
 
 ---
 
@@ -220,4 +220,10 @@ Open To:
 
 ---
 
-> Building technology that solves real-world problems, one project at a time.
+---
+
+<div align="center">
+
+Building technology that solves real-world problems, one project at a time.
+
+</div>
