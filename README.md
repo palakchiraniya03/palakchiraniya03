@@ -163,11 +163,35 @@ Reduced manual irrigation effort by approximately **60%** during pilot testing t
 
 # GitHub Analytics
 
-![Stats](https://github-readme-stats.vercel.app/api?username=palakchiraniya03&show_icons=true&theme=tokyonight)
+<div align="center">
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=palakchiraniya03&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=palakchiraniya03&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=palakchiraniya03&layout=compact&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palakchiraniya03&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=palakchiraniya03&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=palakchiraniya03&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</div>
+
+---
+
+# Contribution Activity
+
+[![Palak's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=palakchiraniya03\&theme=tokyo-night\&hide_border=true)](https://github.com/palakchiraniya03)
 
 ---
 
