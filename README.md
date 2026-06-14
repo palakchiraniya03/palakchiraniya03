@@ -30,17 +30,26 @@ I enjoy building technology solutions that solve real-world problems, from geosp
 
 # Tech Stack
 
+<div align="center">
+
 ### Languages
-Python • C++ • C • JavaScript • SQL • R
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,r,mysql" />
 
 ### AI / ML
-TensorFlow • PyTorch • Scikit-Learn • OpenCV • Pandas • NumPy
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 
 ### Web Development
-React • HTML • CSS • Flask
+
+<img src="https://skillicons.dev/icons?i=react,html,css,flask" />
 
 ### Databases & Tools
-MongoDB • MySQL • Firebase • Git • GitHub • Jupyter • VS Code • Google Colab
+
+<img src="https://skillicons.dev/icons?i=mongodb,firebase,git,github,vscode" />
+
+</div>
+
 
 ---
 
