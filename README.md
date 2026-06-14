@@ -65,20 +65,75 @@ I enjoy building technology solutions that solve real-world problems, from geosp
 | Mathematics for ML | Intermediate | Linear Algebra, Probability & Statistics, Calculus |
 
 ---
-
 # Featured Projects
 
 <details>
 <summary><b>🚀 Safara — AI-Powered Safe Route Recommendation System</b></summary>
 
-Applied DBSCAN clustering on 5,000+ crime records, built Flask APIs, route-risk analysis and geospatial visualization.
+<br>
+
+### Overview
+
+Safara is a geospatial analytics platform that helps users identify safer routes by analyzing crime patterns, hotspot density, and route risk factors.
+
+### Highlights
+
+* Applied DBSCAN clustering on 5,000+ crime records
+* Built Flask REST APIs for hotspot generation and ML analytics
+* Developed route risk assessment based on hotspot proximity
+* Integrated Leaflet and OpenRouteService for route visualization
+* Created an end-to-end ML workflow from preprocessing to deployment
+
+### Tech Stack
+
+| Layer    | Technologies               |
+| -------- | -------------------------- |
+| Frontend | React, JavaScript, Leaflet |
+| Backend  | Flask                      |
+| ML       | Scikit-Learn, Pandas       |
+| APIs     | OpenRouteService           |
+
+### Impact
+
+Processed and visualized thousands of crime records to provide safer route recommendations through geospatial machine learning.
 
 </details>
 
 <details>
 <summary><b>🌱 KrishiMitra — Smart Irrigation & Farm Assistance Platform</b></summary>
 
-IoT-based irrigation system using ESP32, Firebase, weather intelligence, multilingual mobile app and automated irrigation logic.
+<br>
+
+### Overview
+
+KrishiMitra is a full-stack IoT irrigation platform that automates crop watering using real-time soil moisture data, weather intelligence, and a multilingual mobile application.
+
+### Highlights
+
+* Built an end-to-end IoT system using ESP32 and soil moisture sensors
+* Integrated Firebase Realtime Database for live monitoring
+* Used OpenWeatherMap API to prevent unnecessary irrigation during rainfall
+* Developed multilingual support in English, Hindi, and Marathi
+* Implemented crop-specific irrigation thresholds for multiple crops
+
+### Tech Stack
+
+| Layer    | Technologies                    |
+| -------- | ------------------------------- |
+| Hardware | ESP32, Soil Moisture Sensor     |
+| Frontend | React, TypeScript, Tailwind CSS |
+| Mobile   | Capacitor                       |
+| Backend  | Firebase                        |
+| APIs     | OpenWeatherMap                  |
+
+### Impact
+
+Reduced manual irrigation effort by approximately 60% during pilot testing through intelligent automation and real-time monitoring.
+
+### Recognition
+
+* IEEE Techfiesta, PICT Pune
+* Resonance Hackathon Finalist (IoT Domain)
 
 </details>
 
