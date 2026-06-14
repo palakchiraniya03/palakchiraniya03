@@ -86,7 +86,11 @@ Safara is a geospatial analytics platform that helps users identify safer travel
 
 ### Tech Stack
 
-**React • Flask • Scikit-Learn • Pandas • Leaflet • OpenRouteService**
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,flask,python" />
+</p>
+
+Scikit-Learn • Pandas • Leaflet • OpenRouteService
 
 ### Impact
 
@@ -116,7 +120,11 @@ KrishiMitra is an IoT-based smart irrigation platform that automates crop wateri
 
 ### Tech Stack
 
-**ESP32 • React • TypeScript • Firebase • Tailwind CSS • Capacitor • OpenWeatherMap API**
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,ts,firebase" />
+</p>
+
+ESP32 • Capacitor • Tailwind CSS • OpenWeatherMap API
 
 ### Impact
 
