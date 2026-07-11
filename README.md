@@ -100,35 +100,33 @@ Scikit-Learn • Pandas • Leaflet • OpenRouteService
 
 Processed and visualized thousands of crime records to provide safer route recommendations through geospatial machine learning.
 
-</details>
-
-<br>
-
 <details>
-<summary><b>🌱 KrishiMitra — Smart Irrigation & Farm Assistance Platform</b></summary>
+<summary><b>🌱 KrishiMitra — Smart Irrigation & Predictive Farm Assistance Platform</b></summary>
 
 <br>
 
 ### Overview
 
-KrishiMitra is an IoT-based smart irrigation platform that automates crop watering using real-time soil moisture monitoring, weather intelligence, and a multilingual mobile application.
+KrishiMitra is a full-stack IoT platform that automates crop irrigation using real-time soil moisture monitoring, weather intelligence, and a predictive ML layer — combined with a multilingual mobile application.
 
 ### Highlights
 
-* Built a complete IoT solution using **ESP32**, soil moisture sensors, Firebase, and React.
-* Automated irrigation decisions using moisture readings and real-time weather forecasts.
-* Integrated **OpenWeatherMap API** to prevent unnecessary watering during rainfall.
+* Built a complete IoT solution using **ESP32**, soil moisture sensors, Firebase Realtime Database, and React.
+* **Built a full ML evaluation pipeline** on real ESP32-logged sensor data: EDA, sensor-error data cleaning, feature engineering, feature scaling, and model comparison (Linear vs. Ridge Regression).
+* **Identified and corrected a data leakage risk** in cross-validation caused by overlapping sliding windows — switched to `TimeSeriesSplit` to preserve temporal order and avoid inflated accuracy scores.
+* Ran residual diagnostics and a window-size sensitivity check to validate model behavior, and evaluated generalization across all **9 supported crop thresholds**.
+* Diagnosed and fixed a 32-bit integer overflow bug in the firmware's timestamp logic affecting real-time data logging.
+* Automated irrigation decisions using moisture readings and real-time weather forecasts via **OpenWeatherMap API**.
 * Developed multilingual support in **English, Hindi, and Marathi**.
-* Implemented crop-specific irrigation thresholds for Wheat, Rice, Cotton, Sugarcane, Maize, and Barley.
 * Built live dashboards, notifications, historical analytics, and manual pump controls.
 
 ### Tech Stack
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=react,ts,firebase" />
+<img src="https://skillicons.dev/icons?i=react,ts,firebase,python" />
 </p>
 
-ESP32 • Capacitor • Tailwind CSS • OpenWeatherMap API
+ESP32 • Capacitor • Tailwind CSS • OpenWeatherMap API • scikit-learn • pandas • matplotlib
 
 ### Repository
 
@@ -144,7 +142,6 @@ Reduced manual irrigation effort by approximately **60%** during pilot testing t
 * **Resonance Hackathon Finalist (IoT Domain)**
 
 </details>
-
 ---
 
 # Community
