@@ -15,7 +15,7 @@
 
 # About Me
 
-I'm a second-year Computer Engineering student at **PICT Pune (GPA 9.31/10)** with a strong interest in **Machine Learning, Artificial Intelligence, and Software Engineering**.
+I'm a second-year Computer Engineering student at **PICT Pune (GPA 9.44/10)** with a strong interest in **Machine Learning, Artificial Intelligence, and Software Engineering**.
 
 I enjoy building technology solutions that solve real-world problems, from geospatial crime hotspot analysis with Safara to intelligent irrigation systems with KrishiMitra.
 
