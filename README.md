@@ -186,12 +186,6 @@ Reduced manual irrigation effort by approximately **60%** during pilot testing t
 </div>
 ---
 
-# Contribution Activity
-
-[![Palak's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=palakchiraniya03\&theme=tokyo-night\&hide_border=true)](https://github.com/palakchiraniya03)
-
----
-
 # Current Focus
 
 ```yaml
