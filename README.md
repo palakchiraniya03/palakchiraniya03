@@ -166,7 +166,9 @@ Reduced manual irrigation effort by approximately **60%** during pilot testing t
 
 ---
 
-# GitHub Analytics
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
@@ -184,13 +186,22 @@ Reduced manual irrigation effort by approximately **60%** during pilot testing t
 
 <br>
 
-## 🟩 Contribution Calendar
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=palakchiraniya03&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6"/>
+</p>
+
+## 🌱 Contribution Calendar
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/palakchiraniya03" alt="Palak's GitHub Contributions" />
+<img src="https://ghchart.rshah.org/40916c/palakchiraniya03"/>
 
 </div>
+
+<p align="center">
+<i>Consistency compounds. Every commit is a step forward.</i>
+</p>
+
 ---
 
 # Current Focus
