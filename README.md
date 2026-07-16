@@ -181,6 +181,17 @@ Reduced manual irrigation effort by approximately **60%** during pilot testing t
 <img src="https://github-readme-streak-stats.herokuapp.com?user=palakchiraniya03&theme=tokyonight&hide_border=true"/>
 
 </div>
+
+<br>
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=palakchiraniya03&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
 ---
 
 # Current Focus
