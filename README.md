@@ -190,13 +190,6 @@ Reduced manual irrigation effort by approximately **60%** during pilot testing t
 <img src="https://github-profile-trophy.vercel.app/?username=palakchiraniya03&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6"/>
 </p>
 
-## 🌱 GitHub Contribution Calendar
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/409ba5/palakchiraniya03" alt="Palak's GitHub Contribution Chart" />
-</p>
----
-
 # Current Focus
 
 ```yaml
