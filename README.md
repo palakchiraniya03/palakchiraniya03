@@ -93,43 +93,98 @@ Currently exploring **Machine Learning, LLMs, RAG, backend engineering, and DSA*
 
 ## 🚀 Featured Projects
 
-### 🌱 `krishimitra/`
+### 🌱 `krishimitra/` — KrishiMitra
 
 **AI-Powered Smart Irrigation Platform**
 
-> IoT + ML + weather intelligence + AI assistant
+> IoT sensing + ML forecasting + deterministic rule engine + multilingual farmer advisory
 
 **Stack:** `Python` `FastAPI` `React` `TypeScript` `Firebase` `Scikit-learn` `ESP32`
 
-**What I built**
+**Key Highlights**
 
-- IoT-based irrigation system using ESP32 and soil-moisture sensors.
-- ML evaluation pipeline using real sensor data.
-- Addressed cross-validation data leakage using `TimeSeriesSplit`.
-- Automated irrigation decisions using soil moisture and weather forecasts.
-- Multilingual support in English, Hindi, and Marathi.
-- Dashboards, historical analytics, notifications, and pump controls.
+- Built an IoT-based irrigation system using ESP32 and soil-moisture sensors with Firebase synchronization.
+- Engineered a deterministic decision engine combining crop moisture thresholds with real-time weather forecasts.
+- Developed a Scikit-learn ML pipeline with `TimeSeriesSplit` cross-validation to prevent temporal data leakage.
+- Created a multilingual dashboard in English, Hindi, and Marathi with pump controls and historical analytics.
 
 🔗 [Repository](https://github.com/palakchiraniya03/krishimitra) · [Live Demo](https://krishimitra-mocha.vercel.app)
 
 ---
 
-### 🗺️ `safara/`
+### 🔬 `raglab/` — RAGLab – Offline RAG Workbench
 
-**Geospatial ML Platform**
+**Offline Knowledge Base & Document Q&A Platform**
 
-> Crime hotspot detection + route risk analysis
+> Offline-first RAG + local embeddings + Qdrant vector store + inspectable citations
 
-**Stack:** `Python` `Flask` `Scikit-learn` `DBSCAN`
+**Stack:** `Python` `FastAPI` `React` `TypeScript` `Qdrant` `Ollama` `Gemma 3 1B` `PyMuPDF`
 
-**What I built**
+**Key Highlights**
 
-- Applied DBSCAN clustering to identify crime hotspots.
-- Built REST APIs for hotspot generation and route-risk analysis.
-- Assessed route safety using crime density and hotspot proximity.
-- Integrated interactive geospatial visualization.
+- Engineered an offline-first RAG pipeline using FastAPI, local Qdrant vector storage, and Ollama (`nomic-embed-text`, `gemma3:1b`) with zero cloud dependencies.
+- Implemented multi-format document ingestion (PDF, DOCX, TXT, MD) with SHA-256 deduplication and hybrid semantic-lexical retrieval.
+- Built a React/TypeScript workbench featuring a Retrieval Inspector, numbered source evidence citations, and local LLM generation.
+- Integrated a tamper-evident hash-chained activity audit log and an automated evaluation benchmark suite.
 
-🔗 [Repository](https://github.com/palakchiraniya03/safara)
+🔗 [Repository](https://github.com/palakchiraniya03/raglab)
+
+---
+
+### 🏛️ `pradarshak-ai/` — Pradarshak AI
+
+**AI-Driven Loan Scheme Discovery & Financial Planning Platform**
+
+> Grounded conversational AI + deterministic financial engine + PostGIS geospatial partner search
+
+**Stack:** `TypeScript` `Express.js` `Next.js` `React` `PostgreSQL` `PostGIS` `Tailwind CSS`
+
+**Key Highlights**
+
+- Architected a modular TypeScript/Express backend with an LLM orchestration agent for natural-language intent and entity extraction.
+- Engineered a deterministic EMI and moratorium calculation engine for accurate financial schedules without model hallucination.
+- Implemented PostGIS spatial search (`ST_DWithin` / `ST_Distance`) to match verified channel-partner branches within 150 km with NPA/fund filtering.
+- Built a multilingual Next.js 16 chat interface with interactive Leaflet mapping and dynamic eligibility checklists (SIH 2026).
+
+🔗 [Repository](https://github.com/palakchiraniya03/PradarsakAI)
+
+---
+
+### 🕷️ `crawlforge/` — CrawlForge – Web Crawler
+
+**Safe Asynchronous Crawler & Hybrid Search Engine**
+
+> Asynchronous BFS crawler + SSRF defense + content versioning + BM25 & vector search
+
+**Stack:** `TypeScript` `Node.js` `Express` `MongoDB` `Playwright` `BM25` `Vector Embeddings`
+
+**Key Highlights**
+
+- Architected an asynchronous BFS crawler with domain rate limiting, robots.txt compliance, and strict SSRF DNS-resolution defense.
+- Engineered a content-hashed page store with HTTP conditional requests (`ETag` / `Last-Modified`), 304 handling, and optimistic concurrency versioning.
+- Implemented a hybrid search engine combining BM25 lexical ranking and dense vector embeddings using Reciprocal Rank Fusion (RRF).
+- Integrated headless Playwright Chromium automation with SSRF request interception and safe, unambiguous element interaction.
+
+🔗 [Repository](https://github.com/palakchiraniya03/CrawlForge)
+
+---
+
+### 🛡️ `secure-proxy-gateway/` — SecureProxyGateway – Secure Proxy
+
+**C++17 Multi-Threaded Forward Proxy & CONNECT Tunnel**
+
+> High-concurrency POSIX proxy + multi-threaded worker pool + SSRF filter + RFC 7617 auth
+
+**Stack:** `C++17` `POSIX Sockets` `Multithreading` `Network Security` `CMake` `TCP/IP`
+
+**Key Highlights**
+
+- Engineered an HTTP/1.1 forward proxy and HTTPS CONNECT tunneling gateway in modern C++17 using POSIX sockets.
+- Built a concurrent architecture with a fixed-size worker thread pool (32 threads), condition variables, and a thread-safe task queue.
+- Implemented defense-in-depth security featuring RFC 7617 Basic Proxy Authentication and hop-by-hop header stripping.
+- Developed strict SSRF filtering preventing access to loopback, RFC 1918 private ranges, and cloud metadata endpoints.
+
+🔗 [Repository](https://github.com/palakchiraniya03/SecureProxyGateway)
 
 ---
 
